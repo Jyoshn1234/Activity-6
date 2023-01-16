@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <center><u><h1>iframe tutorial </h1></u>
+            <center><b><h1>AQUATIC KINGDOM </h1></br></center>
+
+                <center><iframe src="https://jyoshn1234.github.io/Activity-3/activity3.html"title="The Aquatic Kingdom"height="300px" width="300px"></center>
+                </iframe>
+            </body>
+            </html>
